@@ -45,4 +45,4 @@ def self.create(s)
   student.save
   student
 end
-end 
+end
